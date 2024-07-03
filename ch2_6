@@ -1,0 +1,8 @@
+//ch2_6,沒有縮排的程式碼
+public class ch2_6{ //定義plblic類別ch2_6
+public static void main(String[] args) {
+
+System.out.println("Hello java!");
+System.out.println("Hello world!");
+}
+}
