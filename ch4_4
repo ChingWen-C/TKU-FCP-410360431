@@ -1,0 +1,9 @@
+//ch4_4，關係運算子
+public class ch4_4 {
+    public static void main(String[] args) {
+        System.out.printf("5>=4:%b\n",5>=4);
+        System.out.printf("6<=6:%b\n",6<=6);
+        System.out.printf("8!=7:%b\n",8!=7);//不等於
+        System.out.printf("5==4:%b\n",5==4);//等於
+    }
+}
