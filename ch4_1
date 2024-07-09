@@ -1,0 +1,12 @@
+//ch4_1，算術運算子的使用
+public class ch4_1 {
+    public static void main(String[] args) {
+        int a=9, b=5;
+
+        System.out.printf("%d+%d=%d\n",a,a,a+b);
+        System.out.printf("%d-%d=%d\n",a,a,a-b);
+        System.out.printf("%d*%d=%d\n",a,a,a*b);
+        System.out.printf("%d/%d=%d\n",a,a,a/b);
+        System.out.printf("%d%%d=%d\n",a,a,a%b);
+    }
+}
